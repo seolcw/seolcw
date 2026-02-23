@@ -21,10 +21,9 @@ Feel free to reach out if you have any questions!
   <a href="https://instagram.com/seolcw" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram"/>
   </a>
-  <a href="mailto:seruchangwon@gmail.com" target="_blank">
+  <a href="mailto:seruchangwon@gmail.com">
     <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail"/>
   </a>
-  
 </p>
 
 <br>

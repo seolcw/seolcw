@@ -54,11 +54,17 @@ Feel free to reach out if you have any questions!
 <br>
 
 ## 💼 Experience
+🇺🇸 2025.07 ~ 2025.08: **Summer Global Program** at **Utah State University** (Logan, UT)
+  - Intensive English & Computer Science Program
+
+<br>         
+
+## 🌱 Studying Now
 
 - 2026.01 ~ Present: Intensive Algorithm Study using **C++** (Baekjoon Online Judge)
 - 2025.02 ~ Present: Studying **Japanese (JLPT)** for global game industry career
 
-<br>         
+<br>
 
 ## Tools
 

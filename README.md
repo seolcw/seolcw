@@ -49,7 +49,7 @@ Feel free to reach out if you have any questions!
 
 | Period | Project Name | Topic | Key Features | Stack |
 | --- | --- | --- | --- |--- |
-| 2026.02 ~ Present | **Cat Catch** | Survivor-like, Multiplayer | Mob AI, Procedural Map Generation | Unity, C# |
+| 2026.05 ~ Present | **Cat Catch** | Survivor-like, Multiplayer | Mob AI, Procedural Map Generation | Unity, C# |
 
 <br>
 
